@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05e3f964-8f68-4cb0-8f61-9efa3b709fd3" name="Changes" comment="init Project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gdboyzhaoyun"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gdboyzhaoyun/Macao-Test-For-FruitCart.git",
+    "accountId": "25c9d9b1-cd15-4603-bec0-4aa83b5a713d"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FDmufS9AHilaz3BF3t8D2GW3Lq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InsertionSort.executor": "Run",
+    "Application.June16Application.executor": "Run",
+    "Application.icbcApplication.executor": "Run",
+    "JUnit.ShoppingCartServiceATest.executor": "Run",
+    "JUnit.ShoppingCartServiceBTest.executor": "Run",
+    "JUnit.ShoppingCartServiceBTest.testCalculateTotalPrice_NormalCase1.executor": "Run",
+    "JUnit.ShoppingCartServiceBTest.testCalculateTotalPrice_NormalCase2.executor": "Run",
+    "JUnit.ShoppingCartServiceBTest.testCalculateTotalPrice_NormalCase3.executor": "Run",
+    "JUnit.ShoppingCartServiceBTest.testCalculateTotalPrice_NormalCase6.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_Apple90Percent.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_Mango70Percent.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_MultipleDiscounts.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_NegativeAppleWeight.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_NegativeMangoWeight.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_NegativeStrawberryWeight.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_NoDiscount.executor": "Run",
+    "JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_Strawberry80Percent.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_Below100.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_Exactly100.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_Exactly100Exact.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_HighAmount.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_NegativeMangoWeight.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_NoReduction.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_NormalCase.executor": "Run",
+    "JUnit.ShoppingCartServiceDTest.testCalculateTotalPriceWithFullReduction_Over100.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testCalculateTotalPrice_BothNegativeWeight.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testCalculateTotalPrice_NegativeAppleWeight.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testCalculateTotalPrice_NegativeStrawberryWeight.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testCalculateTotalPrice_NormalCase1.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testCalculateTotalPrice_NormalCase2.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testCalculateTotalPrice_NormalCase3.executor": "Run",
+    "JUnit.ShoppingCartServiceTest.testCalculateTotalPrice_NormalCase4.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.June16Application.executor": "Run",
+    "Spring Boot.icbcApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/DefaultDesktop/Macao-test-hzl",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="June16Application" value="FAILED" />
+              <entry key="icbcApplication" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_NoDiscount">
+    <configuration name="ShoppingCartServiceBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="July9icbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.icbc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.icbc.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.icbc.service.ShoppingCartServiceBTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartServiceCTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="July9icbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.icbc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.icbc.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.icbc.service.ShoppingCartServiceCTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_MultipleDiscounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="July9icbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.icbc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.icbc.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.icbc.service.ShoppingCartServiceCTest" />
+      <option name="METHOD_NAME" value="testCalculateTotalPriceWithDiscount_MultipleDiscounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_NoDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="July9icbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.icbc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.icbc.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.icbc.service.ShoppingCartServiceCTest" />
+      <option name="METHOD_NAME" value="testCalculateTotalPriceWithDiscount_NoDiscount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartServiceDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="July9icbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.icbc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.icbc.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.icbc.service.ShoppingCartServiceDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="June16Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="June16" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.june16.June16Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="icbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="July9icbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.icbc.icbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_NoDiscount" />
+        <item itemvalue="JUnit.ShoppingCartServiceCTest.testCalculateTotalPriceWithDiscount_MultipleDiscounts" />
+        <item itemvalue="JUnit.ShoppingCartServiceDTest" />
+        <item itemvalue="JUnit.ShoppingCartServiceCTest" />
+        <item itemvalue="JUnit.ShoppingCartServiceBTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e3f964-8f68-4cb0-8f61-9efa3b709fd3" name="Changes" comment="" />
+      <created>1781618241850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781618241850</updated>
+      <workItem from="1781618243451" duration="3119000" />
+      <workItem from="1781663843149" duration="1845000" />
+      <workItem from="1781678750820" duration="3545000" />
+      <workItem from="1781741914789" duration="1213000" />
+      <workItem from="1783511180807" duration="703000" />
+      <workItem from="1783511955587" duration="432000" />
+      <workItem from="1783512491977" duration="3094000" />
+      <workItem from="1783526804020" duration="4914000" />
+      <workItem from="1783557752625" duration="8992000" />
+    </task>
+    <task id="LOCAL-00001" summary="init Project">
+      <option name="closed" value="true" />
+      <created>1783565312323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783565312324</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init Project" />
+  </component>
+</project>
